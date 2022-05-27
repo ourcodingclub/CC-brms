@@ -3,7 +3,7 @@
 
 This repository contains all the data needed to complete the **"Bayesian modelling using the brms package" [here](https://ourcodingclub.github.io/tutorials/brms/)**
 
-**Data available [here](https://github.com/EdDataScienceEES/tutorial-louise-litrico/tree/master/Data)**, from the Living Planet Index (full details [here](http://www.livingplanetindex.org/home/index))
+**Data available [here](Data)**, from the Living Planet Index (full details [here](http://www.livingplanetindex.org/home/index))
 
 Tutorial information:
 
